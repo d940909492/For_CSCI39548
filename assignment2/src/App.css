@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color;
+}
+
+button {
+  color: black;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  border-radius: 8px;
+  background-color: white;
+}
