@@ -42,8 +42,7 @@ A simple web application similar to Twitter, built with React and Firebase. User
 ## Project Video Demo
 <br />
 
-Watch a video about how the app work, including how data is create and modify in Firebase:
-*[[Link to the video](https://mega.nz/file/MNF00DTB#NUE3UnSfg2rTylWIn6Somt5b5Mulz61FUQCzju8ZgUM)]*
+*[Watch the video about how the app work, including how data is create and modify in Firebas here](https://mega.nz/file/MNF00DTB#NUE3UnSfg2rTylWIn6Somt5b5Mulz61FUQCzju8ZgUM)*
 
 <br />
 
