@@ -1,6 +1,6 @@
-# MiniTwitter Clone
+# MiniTwitter
 
-A simple web application similar to Twitter, built with React, TypeScript, and Firebase. Users can sign up, login in, create posts, view posts, and edit or delete their own posts
+A simple web application similar to Twitter, built with React and Firebase. Users can sign up, login in, create posts, view posts, and edit or delete their own posts
 
 ## Features
 
@@ -12,6 +12,8 @@ A simple web application similar to Twitter, built with React, TypeScript, and F
     * **posts:** users can create post and all users can view
     * **Update:** Users can edit the content of their own posts
     * **Delete:** Users can delete their own posts
+
+<br />
 
 ## Technologies Used
 
@@ -35,10 +37,15 @@ A simple web application similar to Twitter, built with React, TypeScript, and F
   },
 ```
 
+<br />
+
 ## Project Video Demo
+<br />
 
 Watch a video about how the app work, including how data is create and modify in Firebase:
 *[[Link to the video](https://mega.nz/file/MNF00DTB#NUE3UnSfg2rTylWIn6Somt5b5Mulz61FUQCzju8ZgUM)]*
+
+<br />
 
 ## Setup and Installation
 
@@ -67,6 +74,7 @@ To run this project locally:
         import { getAuth } from "firebase/auth";
         import { getFirestore } from "firebase/firestore";
 
+        // only add your configuration to here
         const firebaseConfig = {
           apiKey: "YOUR_API_KEY",
           authDomain: "YOUR_AUTH_DOMAIN",
