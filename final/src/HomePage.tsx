@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
     <div className="page-container home-page">
       <div className="home-header">
         <h2>Home Page</h2>
-        <p>Since only function right now is posting, just try post something(I might add edit and delete function)</p>
+        <p>Since only function right now is posting, just try post something</p>
         <button onClick={handleLogout} className="button logout-button">
           Logout
         </button>

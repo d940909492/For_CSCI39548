@@ -204,3 +204,59 @@ h2 {
 .post-timestamp {
   color: #777;
 }
+
+.post-text {
+  margin-bottom: 0.75rem;
+}
+
+.post-actions {
+  margin-top: 0.75rem;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+}
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.edit-button {
+  background-color: #3498db;
+}
+.edit-button:hover {
+  background-color: #2980b9;
+}
+
+.save-button {
+  background-color: #2ecc71;
+}
+.save-button:hover {
+  background-color: #27ae60;
+}
+
+.cancel-button {
+  background-color: #95a5a6;
+  color: #fff; 
+}
+.cancel-button:hover {
+  background-color: #7f8c8d;
+}
+
+.post-edit-area {
+  margin-top: 1.5rem;
+}
+
+.post-edit-textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  min-height: 60px;
+  margin-bottom: 0.5rem;
+  box-sizing: border-box;
+  resize: vertical;
+}
